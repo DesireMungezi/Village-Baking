@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1715331173 source:c:\users\frank\c++ programming\village_banking\main.cpp
+	<iostream>
+	<string>
+	<vector>
+
